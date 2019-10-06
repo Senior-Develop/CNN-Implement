@@ -1,0 +1,14 @@
+*.pyc
+*.swp
+*.png
+*.pfm
+*.txt
+*.sh
+/data/*
+!/data/list/
+/data/list/*
+!/data/list/*
+!/data/tensorboard_log/
+/data/tensorboard_log/*
+!/data/tensorboard_log/model_epoch2000*
+
